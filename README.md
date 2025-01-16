@@ -1,4 +1,5 @@
 # Demo
 this is my first git repository
 <br>
-Author is Shiva Prakash
+Author is Shiva Prakash(git repository)
+.
